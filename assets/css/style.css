@@ -1,0 +1,11 @@
+body {
+    font-family: 'Play', sans-serif !important;
+    background-image: url(../images/country-quilt.png) !important;
+    background-repeat: repeat !important;
+
+}
+
+
+#container {
+    background-color: whitesmoke !important;
+}
